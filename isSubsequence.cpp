@@ -6,9 +6,6 @@
 //(i.e., "ace" is a subsequence of "abcde" while "aec" is not).
 
 #include <string>
-#include <unordered_map>
-#include <unordered_set>
-#include <iostream>
 
 bool isSubsequence(std::string s, std::string t) {
 
